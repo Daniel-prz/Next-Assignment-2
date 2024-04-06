@@ -1,6 +1,6 @@
 import Image from "next/image";
 import UserForm from "./components/UserForm.jsx";
-import Counter from "./components/Counter.js";
+import Counter from "./components/Counter.jsgit";
 
 export default function Home() {
   return (
